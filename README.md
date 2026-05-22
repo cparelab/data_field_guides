@@ -9,7 +9,7 @@ organisations, and UN agencies.
 
 | Guide | Description | Status |
 |-------|-------------|--------|
-| tidy-data-companion | A structured diagnostic and cleaning guide for messy datasets. Outputs a cleaned file, data dictionary, diagnostic narrative, and change log. | In progress |
+| tidy-data-companion | A structured diagnostic and cleaning guide for messy datasets. Outputs a cleaned file, data dictionary, diagnostic narrative, and change log. | Stable |
 
 ## How to use
 
