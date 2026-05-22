@@ -1,6 +1,6 @@
 # tidy-data-companion
 
-A field guide for cleaning messy, real-world datasets. Upload a file, get back something analysis-ready — with a data dictionary and full audit trail included.
+A field guide for cleaning messy, real-world datasets. Upload a file, get back something analysis-ready with a data dictionary and full audit trail included.
 
 Built for practitioners who regularly receive data in poor shape and need to clean it properly, document what changed, and hand it to someone else without losing trust in the numbers.
 
@@ -46,7 +46,7 @@ You upload a file. The skill reads it, tells you what it found, asks only what i
 - **`cleaned_data.xlsx`** and/or **CSV files** — your choice at the start. The xlsx has three sheets: cleaned data, data dictionary, and change log. CSVs give you the same content in a format that travels better long-term.
 - **`diagnostic_narrative.md`** — plain English summary of what was found and fixed, written for a non-technical reader. Paste into Word, Notion, or Google Docs.
 
-It infers where it can. It flags where it can't. You stay in control of every structural decision.
+It infers where it can and it flags where it can't. The idea is that you stay in control of every structural decision as you go through the process so that the output, findings, etc., are usable for your given use case for your work with the dataset.
 
 ---
 
@@ -76,7 +76,7 @@ The structural framework — one observation per row, one variable per column, o
 **Broman, K. W., & Woo, K. H. (2018). Data Organization in Spreadsheets.** *The American Statistician, 72*(1), 2–10.
 The practical rules — consistent formatting, YYYY-MM-DD dates, no colour-encoded meaning, no calculations in raw data, always ship a data dictionary. [Read it](https://doi.org/10.1080/00031305.2017.1375989)
 
-Worth reading both. They're short.
+Both are worth reading: they seminal papers in the data analysis space, and have formed a lot of the work that myself and colleagues have done especially those working in International Organisations.
 
 ---
 
